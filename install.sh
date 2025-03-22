@@ -12,7 +12,6 @@ packages=(
     steam
     discord
     ncspot
-    # Adicione mais programas aqui
 )
 
 # Atualiza o sistema e instala os pacotes
